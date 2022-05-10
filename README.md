@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
 <h3 align="center">A Remote and Freelance Fullstack Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrepith" alt="andrepith" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrepith&title=Commit,Repo,Followers" alt="andrepith" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/andrepith" target="blank"><img src="https://img.shields.io/twitter/follow/andrepith?logo=twitter&style=for-the-badge" alt="andrepith" /></a> </p>
 
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrepith&show_icons=true&locale=en&layout=compact" alt="andrepith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrepith&show_icons=true&locale=en" alt="andrepith" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrepith&show_icons=true&locale=en&count_private=true&hide=stars,prs,contribs&theme=algolia" alt="andrepith" /></p>
