@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrepith&show_icons=true&locale=en&layout=compact" alt="andrepith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrepith&show_icons=true&locale=en&count_private=true&hide=stars,prs,contribs&theme=algolia" alt="andrepith" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrepith&show_icons=true&locale=en&count_private=true&hide=stars,prs,contribs&theme=algolia" alt="andrepith" /></p>
