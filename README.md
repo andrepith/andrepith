@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/andrepith" target="blank"><img src="https://img.shields.io/twitter/follow/andrepith?logo=twitter&style=for-the-badge" alt="andrepith" /></a> </p>
 
-- 🔭 I’m currently working on [A code learning platform](codedegree.com)
+- 🔭 I’m currently working on [A code learning platform](https://www.codedegree.com)
 
 - 👨‍💻 All of my projects are available at [https://www.andreadikara.com/](https://www.andreadikara.com/)
 
